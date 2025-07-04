@@ -26,6 +26,7 @@ body {
   margin: 20px 0 10px;
   color: #16213e;
   font-size: 3.5em; /* Increased font size using em */
+  font-family: 'Fascinate Inline', cursive;
 }
 
 .hero p {
@@ -70,6 +71,7 @@ body {
   margin-bottom: 20px;
   color: #0f3460;
   font-size: 32px; /* Increased font size */
+  font-family: 'Fascinate Inline', cursive;
 }
 
 .how-it-works ol {
@@ -104,6 +106,7 @@ strong {
   margin-bottom: 20px;
   color: #1a1a2e;
   font-size: 32px; /* Increased font size */
+  font-family: 'Fascinate Inline', cursive;
 }
 
 .features ul {
